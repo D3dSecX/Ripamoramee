@@ -10,4 +10,14 @@ Step 2. git clone https://github.com/D3dSecX/Ripamoramee/
 
 Step 3. cd Ripaamoramee/
 
-Step 4. python3 Ripamoramee
+Step 4. python3 Ripamoramee.py
+
+## Termux
+
+Step 1. git clone https://github.com/D3dSecX/Ripamoramee/
+
+Step 2. cd Ripamoramee/
+
+Step 3. bash termux.sh
+
+Step 4. python3 Ripamoramee.py
